@@ -1,4 +1,4 @@
-# MFC-
+# MFC-CreateBinaryTreeByMFC
 CUG数据结构某次作业
 # 根据前序+中序或中序+后序在MFC中实现动态建立二叉树。
 
