@@ -556,5 +556,4 @@ void CCreateBinaryTreeByMFCDlg::OnBnClickedButton4()
 }
 ```
 # 总结
-以上就是今天要讲的内容，本文仅为本人数据结构上机作业所实现功能，水平有限，希望能对大家有所帮助。具体程序已上传，大家可以免费下载。
-[蓝奏云链接](https://wws.lanzous.com/iSOS7i8cmdi)
+以上就是今天要讲的内容，本文仅为本人数据结构上机作业所实现功能，水平有限，希望能对大家有所帮助。
